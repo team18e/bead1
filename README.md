@@ -139,7 +139,7 @@ user.test.js:
 ** A futtatáshoz ajánlott hardver-, szoftver konfiguráció: **
 
 Nincs különösebb megkötése, gépigénye a program használatának.
-'https://tdapp.herokuapp.com/'
+'http://tdapp.herokuapp.com/'
         
 ** Telepítés lépései: **
 
@@ -154,7 +154,7 @@ Nincs különösebb megkötése, gépigénye a program használatának.
         
 ** A program használata **
 
-0. 'https://tdapp.herokuapp.com/'
+0. 'http://tdapp.herokuapp.com/'
 A program két felhasználótípust különböztet meg: anonym, és regisztrált felhasználó.
 1. Regisztráció: főoldalon a Regisztráció fülre kattintva tudunk regisztrálni (a mezőket megfelelően kitöltve)
 2. Bejelentkezés: bejelentkezés menüfülre kattintva lehet bejelentkezni (itt is lehet regisztrálni, ha még nem tettük meg)
